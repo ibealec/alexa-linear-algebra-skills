@@ -4,8 +4,8 @@ var Alexa = require('alexa-sdk');
 var APP_ID = 'amzn1.ask.skill.085ff3e3-3896-4729-9030-e2b9f3877e7d';
 
 var SKILL_NAME = "Linear Algebra Vocabulary";
-var GET_FACT_MESSAGE = "Here's your definition: ";
-var HELP_MESSAGE = "You can say give me a definition or you can say exit. What can I help you with?";
+var GET_FACT_MESSAGE = "Here's your term: ";
+var HELP_MESSAGE = "You can say give me random vocabulary or you can say exit. What can I help you with?";
 var HELP_REPROMPT = "What can I help you with?";
 var STOP_MESSAGE = "See you next time you need help with Linear Algebra Vocab!";
 
