@@ -3,11 +3,11 @@ var Alexa = require('alexa-sdk');
 
 var APP_ID = 'amzn1.ask.skill.085ff3e3-3896-4729-9030-e2b9f3877e7d';
 
-var SKILL_NAME = "Space Facts";
-var GET_FACT_MESSAGE = "Here's your fact: ";
-var HELP_MESSAGE = "You can say tell me a space fact, or, you can say exit... What can I help you with?";
+var SKILL_NAME = "Linear Algebra Vocabulary";
+var GET_FACT_MESSAGE = "Here's your definition: ";
+var HELP_MESSAGE = "You can say give me a definition or you can say exit. What can I help you with?";
 var HELP_REPROMPT = "What can I help you with?";
-var STOP_MESSAGE = "Goodbye!";
+var STOP_MESSAGE = "See you next time you need help with Linear Algebra Vocab!";
 
 //=========================================================================================================================================
 //TODO: Fix the grammar
